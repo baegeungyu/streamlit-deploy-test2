@@ -18,4 +18,4 @@ if answer:
         random_image = random.choice(images)
         st.image(random_image)
     else:
-        st.write('특수 문자를 포함하세요')
+        st.write('~특수 문자를 포함하세요')
